@@ -1,2 +1,2 @@
-# Dungeon-of-Mathematics
+# MathQuest
 Math Game
